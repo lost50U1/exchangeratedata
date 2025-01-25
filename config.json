@@ -1,0 +1,693 @@
+{
+  "tpairs": {
+    "EURUSD": {
+      "baseCurrency": "USD",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "GBPUSD": {
+      "baseCurrency": "USD",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "USDJPY": {
+      "baseCurrency": "JPY",
+      "pointValue": 0.01,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "USDCHF": {
+      "baseCurrency": "CHF",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "AUDUSD": {
+      "baseCurrency": "USD",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "USDCAD": {
+      "baseCurrency": "CAD",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "NZDUSD": {
+      "baseCurrency": "USD",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "USDNOK": {
+      "baseCurrency": "NOK",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "USDSEK": {
+      "baseCurrency": "SEK",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "USDMXN": {
+      "baseCurrency": "MXN",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "USDZAR": {
+      "baseCurrency": "ZAR",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "USDCNH": {
+      "baseCurrency": "CNH",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "USDHKD": {
+      "baseCurrency": "HKD",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "USDSGD": {
+      "baseCurrency": "SGD",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "USDTRY": {
+      "baseCurrency": "TRY",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "USDCZK": {
+      "baseCurrency": "CZK",
+      "pointValue": 0.01,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "USDPLN": {
+      "baseCurrency": "PLN",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "USDHUF": {
+      "baseCurrency": "HUF",
+      "pointValue": 0.01,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "USDILS": {
+      "baseCurrency": "ILS",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "USDINR": {
+      "baseCurrency": "INR",
+      "pointValue": 0.01,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "USDRUB": {
+      "baseCurrency": "RUB",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "EURGBP": {
+      "baseCurrency": "GBP",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "EURJPY": {
+      "baseCurrency": "JPY",
+      "pointValue": 0.01,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "EURCHF": {
+      "baseCurrency": "CHF",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "EURCAD": {
+      "baseCurrency": "CAD",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "EURAUD": {
+      "baseCurrency": "AUD",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "EURSEK": {
+      "baseCurrency": "SEK",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "EURNOK": {
+      "baseCurrency": "NOK",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "EURDKK": {
+      "baseCurrency": "DKK",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "GBPJPY": {
+      "baseCurrency": "JPY",
+      "pointValue": 0.01,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "GBPCHF": {
+      "baseCurrency": "CHF",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "GBPAUD": {
+      "baseCurrency": "AUD",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "GBPCAD": {
+      "baseCurrency": "CAD",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "GBPNZD": {
+      "baseCurrency": "NZD",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "GBPSEK": {
+      "baseCurrency": "SEK",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "GBPNOK": {
+      "baseCurrency": "NOK",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "AUDJPY": {
+      "baseCurrency": "JPY",
+      "pointValue": 0.01,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "AUDCAD": {
+      "baseCurrency": "CAD",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "AUDCHF": {
+      "baseCurrency": "CHF",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "AUDNZD": {
+      "baseCurrency": "NZD",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "CADJPY": {
+      "baseCurrency": "JPY",
+      "pointValue": 0.01,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "CADCHF": {
+      "baseCurrency": "CHF",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "NZDJPY": {
+      "baseCurrency": "JPY",
+      "pointValue": 0.01,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "NZDCHF": {
+      "baseCurrency": "CHF",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "US30": {
+      "baseCurrency": "USD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "US30USD": {
+      "baseCurrency": "USD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "SPX500": {
+      "baseCurrency": "USD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "SPX": {
+      "baseCurrency": "USD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "US500": {
+      "baseCurrency": "USD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "US100": {
+      "baseCurrency": "USD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "NAS100": {
+      "baseCurrency": "USD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "NAS": {
+      "baseCurrency": "USD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "UK100": {
+      "baseCurrency": "GBP",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "GER30": {
+      "baseCurrency": "EUR",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "FRA40": {
+      "baseCurrency": "EUR",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "ESP35": {
+      "baseCurrency": "EUR",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "ITA40": {
+      "baseCurrency": "EUR",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "AUS200": {
+      "baseCurrency": "AUD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "JPN225": {
+      "baseCurrency": "JPY",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "HKG33": {
+      "baseCurrency": "HKD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "CHN50": {
+      "baseCurrency": "CNY",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "INDIA50": {
+      "baseCurrency": "INR",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "US2000": {
+      "baseCurrency": "USD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "USOIL": {
+      "baseCurrency": "USD",
+      "pointValue": 0.1,
+      "overridePV": 0.1,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "UKOIL": {
+      "baseCurrency": "USD",
+      "pointValue": 0.1,
+      "overridePV": 0.1,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "XAUUSD": {
+      "baseCurrency": "USD",
+      "pointValue": 0.1,
+      "overridePV": 0.1,
+      "IsPremium": 0,
+      "ContractSize": 100
+    },
+    "GOLD": {
+      "baseCurrency": "USD",
+      "pointValue": 0.1,
+      "overridePV": 0.1,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "XAGUSD": {
+      "baseCurrency": "USD",
+      "pointValue": 0.01,
+      "overridePV": 0.1,
+      "IsPremium": 0,
+      "ContractSize": 1000
+    },
+    "DXY": {
+      "baseCurrency": "USD",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "CHFJPY": {
+      "baseCurrency": "JPY",
+      "pointValue": 0.01,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "NZDCAD": {
+      "baseCurrency": "CAD",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "NAS100USD": {
+      "baseCurrency": "USD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "BTCUSD": {
+      "baseCurrency": "USD",
+      "pointValue": 0.01,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "USOILSPOT": {
+      "baseCurrency": "USD",
+      "pointValue": 0.1,
+      "overridePV": 0.1,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "SP500": {
+      "baseCurrency": "USD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "EURNZD": {
+      "baseCurrency": "NZD",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "NQZ2024": {
+      "baseCurrency": "USD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "NQ1!": {
+      "baseCurrency": "USD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "SILVER": {
+      "baseCurrency": "USD",
+      "pointValue": 0.01,
+      "overridePV": 0.1,
+      "IsPremium": 0,
+      "ContractSize": 1000
+    },
+    "DOGEUSD": {
+      "baseCurrency": "USD",
+      "pointValue": 0.00000001,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "ETHUSD": {
+      "baseCurrency": "USD",
+      "pointValue": 0.01,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "BTCUSDT": {
+      "baseCurrency": "USDT",
+      "pointValue": 0.01,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "NDX": {
+      "baseCurrency": "USD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "A1ZNDQ": {
+      "baseCurrency": "USD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "NDX100": {
+      "baseCurrency": "USD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "NASDAQ": {
+      "baseCurrency": "USD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "GMC": {
+      "baseCurrency": "USD",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "NDQ100": {
+      "baseCurrency": "USD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "DE30EUR": {
+      "baseCurrency": "EUR",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "EU": {
+      "baseCurrency": "EUR",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "EURTRY": {
+      "baseCurrency": "TRY",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "USDTHB": {
+      "baseCurrency": "THB",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "USDKRW": {
+      "baseCurrency": "KRW",
+      "pointValue": 0.01,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "USDCLP": {
+      "baseCurrency": "CLP",
+      "pointValue": 0.01,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "EURSGD": {
+      "baseCurrency": "SGD",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "GBPZAR": {
+      "baseCurrency": "ZAR",
+      "pointValue": 0.0001,
+      "IsPremium": 0,
+      "ContractSize": 100000
+    },
+    "DJI": {
+      "baseCurrency": "USD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "VIX": {
+      "baseCurrency": "USD",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "DAX": {
+      "baseCurrency": "EUR",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "CAC40": {
+      "baseCurrency": "EUR",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "FTSE250": {
+      "baseCurrency": "GBP",
+      "pointValue": 1,
+      "overridePV": 10,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "WTI": {
+      "baseCurrency": "USD",
+      "pointValue": 0.1,
+      "overridePV": 0.1,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "BRENT": {
+      "baseCurrency": "USD",
+      "pointValue": 0.1,
+      "overridePV": 0.1,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "COPPER": {
+      "baseCurrency": "USD",
+      "pointValue": 0.01,
+      "overridePV": 0.1,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "NATURALGAS": {
+      "baseCurrency": "USD",
+      "pointValue": 0.1,
+      "overridePV": 0.1,
+      "IsPremium": 0,
+      "ContractSize": 1
+    },
+    "PLATINUM": {
+      "baseCurrency": "USD",
+      "pointValue": 0.1,
+      "overridePV": 0.1,
+      "IsPremium": 0,
+      "ContractSize": 100
+    },
+    "PALLADIUM": {
+      "baseCurrency": "USD",
+      "pointValue": 0.1,
+      "overridePV": 0.1,
+      "IsPremium": 0,
+      "ContractSize": 100
+    }
+  }
+}
